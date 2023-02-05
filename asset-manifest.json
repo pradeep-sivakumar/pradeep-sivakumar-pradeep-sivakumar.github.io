@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c4d459a0.css",
-    "main.js": "/static/js/main.f279c905.js",
+    "main.js": "/static/js/main.cee908a8.js",
+    "static/media/testimonial1.jpg": "/static/media/testimonial1.25bd0d62949d008eaf05.jpg",
     "static/media/profile1.jpg": "/static/media/profile1.40cff5ba6c5cee08972a.jpg",
     "static/media/about.jpg": "/static/media/about.8ec3423d8c035c551196.jpg",
     "static/media/Pradeep-Cv.pdf": "/static/media/Pradeep-Cv.6f62e59f1b3e7fc878f8.pdf",
@@ -12,13 +13,12 @@
     "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
     "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
     "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
-    "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/index.html",
     "main.c4d459a0.css.map": "/static/css/main.c4d459a0.css.map",
-    "main.f279c905.js.map": "/static/js/main.f279c905.js.map"
+    "main.cee908a8.js.map": "/static/js/main.cee908a8.js.map"
   },
   "entrypoints": [
     "static/css/main.c4d459a0.css",
-    "static/js/main.f279c905.js"
+    "static/js/main.cee908a8.js"
   ]
 }
